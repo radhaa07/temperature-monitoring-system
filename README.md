@@ -3,7 +3,7 @@ Temperature Monitoring System (Arduino, C/C++)
 
 A sensor-based temperature monitoring and alert system built on an Arduino Uno and simulated in Wokwi. It reads temperature from a DHT22 sensor, logs values over serial, and turns on an LED and buzzer when the temperature goes above a set threshold.
 
-Live simulation: [YOUR_WOKWI_PROJECT_LINK]
+Live simulation: https://wokwi.com/projects/481227971132328961
 
 Circuit diagram
 
